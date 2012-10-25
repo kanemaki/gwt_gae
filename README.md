@@ -18,3 +18,8 @@ Pré-requisitos
 * JDK - última versão do Kit de desenvolvimento Java;
 * Eclipse IDE - o projeto possui as configurações do Eclipse, por contar com mais opções na integração com ferramentas do Google;
 * Plugin do Google para Eclipse - plugin com suporte a implantação no GAE e para o desenvolvimento com GWT.
+
+Saiba mais
+-------
+Visite a página do projeto:
+http://www.yaw.com.br/open/projetos/gwt-gae/
